@@ -1,0 +1,21 @@
+<Alloy>
+	<Window id="winIndex">
+		<View id="navBar">
+			<View id="viewMenu" onClick="clickMenu1">
+				<ImageView id="imgMenu"></ImageView>
+			</View>
+			<Label id="titleMenu"></Label>
+		</View>
+		<View id="viewFoto">
+			<ImageView id="fotoImg"></ImageView>
+		</View>
+		<View id="viewOpciones">
+			<View id="viewSep"></View>
+			<Label id="lblOpt1"></Label>
+			<Label id="lblOpt2"></Label>
+		</View>
+		<ScrollView id="scroll">
+			<Label id="labelDes"></Label>
+		</ScrollView>
+	</Window>
+</Alloy>

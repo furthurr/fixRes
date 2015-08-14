@@ -1,0 +1,78 @@
+"#winIndex": {
+	backgroundColor:"white",
+	 navBarHidden: false
+}
+"#navBar":{
+	height:64,
+	top:0,
+	backgroundColor:'#B43104'
+}
+"#viewMenu":{
+	left:10,
+	bottom:0,
+	width:50,
+	height:50
+}
+"#imgMenu":{
+	image:'/imgs/menu.png',
+	width:40
+}
+"#titleMenu":{
+	text:'Titulo de ventana',
+	color:'white',
+	height:44,
+	top:20
+}
+"#viewFoto":{
+	top:64,
+	width:320,
+	height:200,
+	backgroundColor:'#F6E3CE'
+}
+"#fotoImg":{
+	image:'/imgs/foto.png',
+	height:150,
+	borderRadius:75,
+	borderWidth:3,
+	borderColor:'#B43104'
+}
+"#viewOpciones":{
+	height:40,
+	top:264,
+	backgroundColor:'#B43104'
+}
+"#viewSep":{
+	width:1,
+	backgroundColor:'white',
+	height:'60%'
+}
+"#lblOpt1":{
+	text:'Pedro Gomez',
+	textAlign:'center',
+	color:'white',
+	left:0,
+	width:'50%'
+}
+"#lblOpt2":{
+	text:'@furthurr',
+	textAlign:'center',
+	color:'white',
+	right:0,
+	width:'50%'
+}
+"#scroll":{
+	top:304,
+	//backgroundColor:'#F6E3CE',
+	height:224
+}
+"#labelDes":{
+	color:'black',
+	width:'90%',
+	//top:5,
+	text:'Esto es un ejemplo de como utilizar la librería fixResolution con la cual podrás desarrollar tus vistas para iphone de 4 pulgadas y/o 3.5 y ella se encargara de redimencionar todo a la pantalla que mas se asemeja de manera proporcional incluyendo las pantallas de android.\n\nSi tienes dudas comentario o quieres apoyar mejorando el código no dudes en contactar.\n\nDa click en las imagenes de abajo para acceder a mis redes de contacto.'
+}
+// "#baseView":{
+	// bottom:0,
+	// backgroundColor:'blue',
+	// height:40
+// }
